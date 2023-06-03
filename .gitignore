@@ -1,3 +1,7 @@
 sirie/*
-statistics/source/*
+red-tide/source/*
+!red-tide/source/.emptyfile
+
+red-tide/output/*
+!red-tide/output/.emptyfile
 sirie1 (1).miz

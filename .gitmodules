@@ -1,0 +1,3 @@
+[submodule "sirie/tools/external/pyMIZFile"]
+	path = sirie/tools/external/pyMIZFile
+	url = https://github.com/destotelhorus/pyMIZFile.git
